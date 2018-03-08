@@ -1,0 +1,17 @@
+sets.exported={
+    main="Homestead Blade",
+    sub={ name="Xiutleato", augments={'Occ. atk. twice+8','Crit.hit rate+4',}},
+    ammo="Cheruski Needle",
+    head="Aya. Zucchetto",
+    body="Ayanmo Corazza",
+    hands="Magus Bazubands",
+    legs="Ayanmo Cosciales",
+    feet="Aya. Gambieras",
+    neck="Asperity Necklace",
+    waist="Artful Belt +1",
+    left_ear="Heartseeker Earring",
+    right_ear="Dudgeon Earring",
+    left_ring="Ramuh Ring",
+    right_ring="Ramuh Ring",
+    back={ name="Rosmerta's Cape", augments={'Accuracy+11 Attack+11',}},
+}
